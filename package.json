@@ -1,0 +1,16 @@
+{
+  "name": "robocon-iitp-site",
+  "version": "1.0.0",
+  "description": "Team Phoenix - Robocon and Competitive Robotics, IIT Patna",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=3000 --host=0.0.0.0",
+    "dev": "npx live-server --port=3000 --host=0.0.0.0"
+  },
+  "keywords": ["robotics", "robocon", "iit-patna", "team-phoenix"],
+  "author": "Team Phoenix",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
